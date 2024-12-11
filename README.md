@@ -52,7 +52,7 @@ Follow these steps to set up the project locally:
 
 Check out the live version here: [Test Project](https://test-a85a.onrender.com)
 
-## 🌐 Postman Collection 
+## </> Postman Collection 
 
 Check out the live version here: [Collection](https://www.postman.com/dark-meadow-735641/workspace/test-api/collection/40155886-fa86fc46-86b0-4d2b-b130-38a34a788c4e?action=share&creator=40155886)
 
